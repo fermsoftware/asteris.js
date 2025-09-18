@@ -10,7 +10,7 @@ npm install @wxrayut/asteris.js
 
 ## 🚀 Quick Start
 
-```
+```typescript
 import { asteris } from "@wxrayut/asteris.js";
 
 await asteris("./commands", (command, path) => {
