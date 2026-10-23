@@ -23,8 +23,8 @@ await asteris("./commands", (command, path) => {
 }, options);
 ```
 
-- Check a full working example [here](https://github.com/wxrayut/asteris.js/blob/main/example/a.ts).
+- Check a full working example [here](https://github.com/fermsoftware/asteris.js/blob/main/example/a.ts).
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/wxrayut/asteris.js/blob/main/LICENSE).
+This project is licensed under the [MIT License](https://github.com/fermsoftware/asteris.js/blob/main/LICENSE).

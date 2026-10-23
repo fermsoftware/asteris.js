@@ -29,13 +29,13 @@
     "pre-release": "npm run test && npm run build",
     "release": "npm publish"
   },
-  "homepage": "https://github.com/wxrayut/asteris.js#readme",
+  "homepage": "https://github.com/fermsoftware/asteris.js#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/wxrayut/asteris.js.git"
+    "url": "https://github.com/fermsoftware/asteris.js.git"
   },
   "bugs": {
-    "url": "https://github.com/wxrayut/asteris.js/issues"
+    "url": "https://github.com/fermsoftware/asteris.js/issues"
   },
   "keywords": [
     "discord",
